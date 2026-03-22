@@ -9,12 +9,13 @@ Android ilovasi – kameradan rasm olish, Bitmap olish va ML Kit orqali matn tan
 - Bitmap olish
 - ML Kit OCR
 
-## Demo
+## 📹 Demo
 
-<video src="FILE%202026-03-22%2019:21:02.mp4" controls width="640"></video>
+<video src="https://github.com/user-attachments/assets/dc154beb-8169-4950-9918-9b5b504fde2f" width="600" controls></video>
 
 ## Texnologiyalar
 
 - Kotlin, Jetpack Compose
 - CameraX
 - ML Kit Text Recognition
+
